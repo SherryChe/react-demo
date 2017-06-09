@@ -1,0 +1,7 @@
+# 用于全局忽略目录
+/src/js/**/*.js
+# 所有名称为test.jsx的也不检查
+/src/js/**/test.jsx
+# 特殊文件
+/src/js/weChat/comm/face.jsx
+/src/js/weChat/comm/textToFace.jsx
