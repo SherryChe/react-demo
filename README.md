@@ -3,4 +3,5 @@
 * 运行 npm run dev
 * 浏览器运行index.html
 
-# more
+# componets
+touchLoader  上拉刷新  下拉加载更多  手机端
